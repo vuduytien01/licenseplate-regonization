@@ -1,4 +1,5 @@
 LINK ROBOFLOW:
 	MODEL:https://app.roboflow.com/vdt-workspace/vn-lincense-plate-detet/models/vn-lincense-plate-detet/4(DETECT)
 	WORKFLOW:https://app.roboflow.com/workflows/embed/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ3b3JrZmxvd0lkIjoiMm1SQTVtNTlWRzMwVnFQcjBYZnIiLCJ3b3Jrc3BhY2VJZCI6Iko4aVVuMFV5UmxZNzBucFF6dVlzdm4zbU0zUjIiLCJ1c2VySWQiOiJKOGlVbjBVeVJsWTcwbnBRenVZc3ZuM21NM1IyIiwiaWF0IjoxNzgyMzU4NzE2fQ.ZjqH9jKGzWR1_L2tmnEBmgHfwx-a_XgWIwl7eSYyldA
+DATASET:https://app.roboflow.com/vdt-workspace/vn-lincense-plate-detet/browse?queryText=&pageSize=50&startingIndex=0&browseQuery=true
 	
