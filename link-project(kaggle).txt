@@ -1,0 +1,8 @@
+#yolo26m(detect):
+https://www.kaggle.com/code/vdt1501/yolo26m-parseq/notebook?scriptVersionId=329965440
+
+#parseq(ocr):
+https://www.kaggle.com/code/vdt1501/parseq-ocr-from-yolo26m
+
+#link dataset:
+https://drive.google.com/file/d/1wBldMyX4BepTk8TcTJuYylWygrp3w7-3/view?usp=sharing
