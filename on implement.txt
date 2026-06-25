@@ -1,0 +1,3 @@
+https://www.kaggle.com/code/vdt1501/florence2large-yolo26m-parseq (pipe : autolabel(florence),yolo26m(detect),parseq(ocr)
+https://www.kaggle.com/code/vdt1501/license-plate(yolo-world(autolabel),rt-detr(detect),glm-ocr)(done yolo-world here)(failed label) 
+  and failed in other continue: https://www.kaggle.com/code/vdt1501/license-plate?scriptVersionId=329017953
