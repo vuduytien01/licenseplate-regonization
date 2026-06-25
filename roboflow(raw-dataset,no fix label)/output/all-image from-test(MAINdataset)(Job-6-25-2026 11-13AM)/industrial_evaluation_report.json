@@ -1,0 +1,88 @@
+{
+    "industrial_metrics": {
+        "string_accuracy": 0.5084,
+        "mean_ned": 0.8612,
+        "format_compliance_rate": 0.4774,
+        "expected_calibration_error_ece": 0.4237
+    },
+    "error_analysis": {
+        "total_errors": 380,
+        "error_distribution": {
+            "Substitution": 79,
+            "Insertion": 200,
+            "Deletion": 101
+        },
+        "top_character_substitutions": [
+            [
+                [
+                    "8",
+                    "0"
+                ],
+                4
+            ],
+            [
+                [
+                    "1",
+                    "2"
+                ],
+                4
+            ],
+            [
+                [
+                    "1",
+                    "8"
+                ],
+                4
+            ],
+            [
+                [
+                    "6",
+                    "G"
+                ],
+                2
+            ],
+            [
+                [
+                    "1",
+                    "0"
+                ],
+                2
+            ],
+            [
+                [
+                    "1",
+                    "4"
+                ],
+                2
+            ],
+            [
+                [
+                    "3",
+                    "4"
+                ],
+                2
+            ],
+            [
+                [
+                    "6",
+                    "9"
+                ],
+                2
+            ],
+            [
+                [
+                    "6",
+                    "4"
+                ],
+                2
+            ],
+            [
+                [
+                    "5",
+                    "4"
+                ],
+                2
+            ]
+        ]
+    }
+}
